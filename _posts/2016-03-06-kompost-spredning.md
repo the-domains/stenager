@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kontakt os og få et tilbud
-datePublished: '2016-03-06T11:39:30.914Z'
-dateModified: '2016-03-06T11:36:52.785Z'
+datePublished: '2016-03-06T14:11:11.509Z'
+dateModified: '2016-03-06T11:54:33.573Z'
 author: []
 title: Kompostspredning
 sourcePath: _posts/2016-03-06-kompost-spredning.md
