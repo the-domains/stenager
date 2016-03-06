@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T16:10:20.077Z'
-dateModified: '2016-03-06T16:09:53.322Z'
+datePublished: '2016-03-06T16:17:24.347Z'
+dateModified: '2016-03-06T16:10:29.469Z'
 author: []
 title: Godstransport
 sourcePath: _posts/2016-03-06-godstransport.md
