@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Hvem er vi?
-datePublished: '2016-03-06T14:23:01.573Z'
-dateModified: '2016-03-06T14:22:31.442Z'
+datePublished: '2016-03-06T14:24:07.417Z'
+dateModified: '2016-03-06T14:24:02.945Z'
 title: Stenager Transport
 author: []
 sourcePath: _posts/2016-03-06-stenager-transport.md
@@ -22,9 +22,10 @@ url: stenager-transport/index.html
 _type: Article
 
 ---
+# Stenager Transport
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d382e0d3c5a9d24cad0de2182ff055c225e2203.jpg)
 
-Stenager Transport er et transportfirma lokaliseret i Skibby. Vi beskæftiger os med entreprenørløsningen for både private og virksomheder. Transport af naturgivne materialer, genbrugsmaterialer og byggematerialer. Vi er specialiseret indenfor kørsel og spredning af landbrugskompost.
+## Stenager Transport er et transportfirma lokaliseret i Skibby. Vi beskæftiger os med entreprenørløsningen for både private og virksomheder. Transport af naturgivne materialer, genbrugsmaterialer og byggematerialer. Vi er specialiseret indenfor kørsel og spredning af landbrugskompost.
 
 Du kan kontakte os her:
 
