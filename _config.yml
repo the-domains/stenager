@@ -1,4 +1,4 @@
-name: Stenager
+name: Stenager Transport
 favicon: null
 layout_spectrum: 0.69616
 typography_spectrum: 0.47249
@@ -22,8 +22,8 @@ color:
     - '#776757'
     - '#293438'
     - '#9e9b94'
-  brandStrength: 0.4375
+  brandStrength: 0.1875
   lightness: 0.6875
-  saturation: 0.5625
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
