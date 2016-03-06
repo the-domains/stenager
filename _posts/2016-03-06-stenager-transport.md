@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Hvem er vi?
-datePublished: '2016-03-06T12:29:21.183Z'
-dateModified: '2016-03-06T12:28:50.544Z'
+datePublished: '2016-03-06T12:39:42.665Z'
+dateModified: '2016-03-06T12:39:14.824Z'
 title: Stenager Transport
 author: []
+sourcePath: _posts/2016-03-06-stenager-transport.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-stenager-transport.md
-published: true
 url: stenager-transport/index.html
 _type: Article
 
