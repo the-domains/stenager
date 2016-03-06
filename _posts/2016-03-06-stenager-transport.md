@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Hvem er vi?
-datePublished: '2016-03-06T14:24:07.417Z'
-dateModified: '2016-03-06T14:24:02.945Z'
+datePublished: '2016-03-06T17:10:14.651Z'
+dateModified: '2016-03-06T17:09:56.999Z'
 title: Stenager Transport
 author: []
 sourcePath: _posts/2016-03-06-stenager-transport.md
@@ -36,6 +36,7 @@ Pagteroldvej 3
 [kontor@stenager-transport.dk][0]
 
 Tel. 40 42 89 36
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68923f3f-b701-49b0-816b-734eaf51b9e3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4545d51c-c3b8-4160-960a-ad659da9da07.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16668c3c-3c3b-4f09-9780-4722745de022.jpg)
 
 [0]: mailto:kontor@stenager-transport.dk
