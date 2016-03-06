@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T11:27:24.428Z'
-dateModified: '2016-03-06T11:27:06.514Z'
+datePublished: '2016-03-06T11:39:21.595Z'
+dateModified: '2016-03-06T11:27:32.009Z'
 author: []
 title: Studenterkørsel
 sourcePath: _posts/2016-03-06-studenterkorsel.md
