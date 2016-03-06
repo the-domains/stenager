@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T16:00:51.066Z'
-dateModified: '2016-03-06T15:57:09.566Z'
+datePublished: '2016-03-06T16:04:36.412Z'
+dateModified: '2016-03-06T16:02:07.781Z'
 title: Godstransport
 author: []
 authors: []
@@ -23,6 +23,6 @@ _type: Article
 
 ---
 # Godstransport
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5564d73f-ce3b-48ca-b5b3-0db4f1699696.jpg)
 
-Vi yder enhver form for godstransport på hele Sjælland.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2625aca3-159b-4817-bb38-2a1033bf3401.jpg)
+Vi yder forskellige former for godstransport på hele Sjælland.
