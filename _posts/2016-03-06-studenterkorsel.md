@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T11:39:21.595Z'
-dateModified: '2016-03-06T11:27:32.009Z'
+datePublished: '2016-03-06T12:11:10.132Z'
+dateModified: '2016-03-06T12:05:58.881Z'
 author: []
 title: Studenterkørsel
 sourcePath: _posts/2016-03-06-studenterkorsel.md
@@ -26,4 +26,4 @@ _type: Article
 # Studenterkørsel
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/601e1731-44c7-4b51-95c8-8cb269916cd5.png)
 
-Stenager Transport laver også Studenterkørsel.
+Vi yder studenterkørsel på hele Sjælland. Priser for leje af en studentervogn findes...
