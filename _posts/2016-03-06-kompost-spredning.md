@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T11:28:30.446Z'
-dateModified: '2016-03-06T11:26:18.591Z'
+datePublished: '2016-03-06T11:36:51.918Z'
+dateModified: '2016-03-06T11:35:46.739Z'
 author: []
-title: Stenager Transport er specialiseret i kompostspredning
+title: Kompostspredning
 sourcePath: _posts/2016-03-06-kompost-spredning.md
 published: true
 authors: []
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Stenager Transport er specialiseret i kompostspredning
+# Kompostspredning
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23debfd4-b25e-4b2d-8cd1-1df024b501cc.png)
 
-Kontakt os for at få et tilbud til kompostspredning på dine marker.
+Stenager Transport er specialiseret i kompostspredning. Kontakt os for at få et tilbud til spredning på dine marker.
