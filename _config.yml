@@ -1,6 +1,6 @@
 name: Stenager
 favicon: null
-layout_spectrum: 0.74074
+layout_spectrum: 0.25514
 typography_spectrum: 0.4738617
 title: Stenager Transport
 cta:
@@ -23,7 +23,7 @@ color:
     - '#45473a'
     - '#ae3a44'
   brandStrength: 0.1875
-  lightness: 0.6875
+  lightness: 0.75
   saturation: 0.7800019
   rhythmicContrast: 0.7344045
 purpose: []
