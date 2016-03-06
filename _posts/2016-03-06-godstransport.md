@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:6cc96fb1-64c1-4b11-9ddd-bb94d7cc4244'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T16:17:24.347Z'
-dateModified: '2016-03-06T16:10:29.469Z'
+datePublished: '2016-03-06T16:21:20.916Z'
+dateModified: '2016-03-06T16:20:55.795Z'
 author: []
 title: Godstransport
 sourcePath: _posts/2016-03-06-godstransport.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: godstransport/index.html
 _context: 'http://schema.org'
 _type: Article
 
