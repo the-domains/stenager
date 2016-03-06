@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Kontakt os og få et tilbud
-datePublished: '2016-03-06T14:11:11.509Z'
-dateModified: '2016-03-06T11:54:33.573Z'
+datePublished: '2016-03-06T14:23:33.514Z'
+dateModified: '2016-03-06T14:11:19.769Z'
 author: []
 title: Kompostspredning
 sourcePath: _posts/2016-03-06-kompost-spredning.md
