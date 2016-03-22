@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Vi yder studenterkørsel på hele Sjælland.\_"
-datePublished: '2016-03-22T20:44:59.353Z'
-dateModified: '2016-03-22T20:44:53.711Z'
+datePublished: '2016-03-22T20:48:12.399Z'
+dateModified: '2016-03-22T20:47:57.282Z'
 author: []
 title: Studenterkørsel
 sourcePath: _posts/2016-03-06-studenterkorsel.md
@@ -24,7 +24,6 @@ _type: Article
 
 ---
 # Studenterkørsel
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/601e1731-44c7-4b51-95c8-8cb269916cd5.png)
 
 Vi yder studenterkørsel på hele Sjælland, bl. a. i:
 
