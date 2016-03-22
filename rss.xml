@@ -4,7 +4,7 @@
         <description><![CDATA[Stenager Transport]]></description>
         <link>http://www.stenager-transport.dk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 20:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 20:48:40 GMT</lastBuildDate>
         <atom:link href="http://www.stenager-transport.dk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stenager Transport]]></title>
@@ -29,10 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Studenterkørsel]]></title>
-            <description><![CDATA[<article><h1>Studenterkørsel</h1><p>Vi yder studenterkørsel på hele Sjælland. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1607bf140e16ec06b4de04948126c897c850459a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Studenterkørsel</h1><p>Vi yder studenterkørsel på hele Sjælland. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79e57bf1a9e967d6e14f567e23367ab28b8be7ae.jpg"></article>]]></description>
             <link>http://www.stenager-transport.dk/studenterkorsel/index.html</link>
             <guid isPermaLink="false">29dd2635-1752-4e8b-b4ca-faf3a193691a</guid>
-            <pubDate>Tue, 22 Mar 2016 20:44:59 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 20:48:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
