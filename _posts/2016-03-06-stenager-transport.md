@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: Hvem er vi?
-datePublished: '2016-03-06T17:10:14.651Z'
-dateModified: '2016-03-06T17:09:56.999Z'
-title: Stenager Transport
-author: []
+description: 'Du kan kontakte os her:'
+datePublished: '2016-08-04T10:42:34.729Z'
+dateModified: '2016-08-04T10:42:33.978Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-06-stenager-transport.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: true
 url: stenager-transport/index.html
 _type: Article
 
