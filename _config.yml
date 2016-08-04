@@ -1,20 +1,4 @@
-name: Stenager Transport
-favicon: null
-layout_spectrum: 0.69616
 typography_spectrum: 0.47249
-title: Stenager Transport
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74768218-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#6d6e67'
@@ -26,4 +10,24 @@ color:
   lightness: 0.6875
   saturation: 0.625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.69616
+analytics:
+  google: UA-74768218-1
+  facebook: null
+  twitter: null
+name: Stenager Transport
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Godstransport
+    id: cae1b2bb-3e08-4e9a-aec6-b0fb3b32081f
+    type: content
+favicon: null
+title: Stenager Transport
 purpose: []
