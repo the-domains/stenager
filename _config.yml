@@ -31,6 +31,9 @@ navigation:
   - name: Godstransport
     id: cae1b2bb-3e08-4e9a-aec6-b0fb3b32081f
     type: content
+  - name: Studenterkørsel
+    id: 29dd2635-1752-4e8b-b4ca-faf3a193691a
+    type: content
 favicon: null
 title: Stenager Transport
 purpose: []
