@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T16:36:32.333Z'
-dateModified: '2016-03-06T16:36:31.951Z'
+datePublished: '2016-08-04T10:42:13.516Z'
+dateModified: '2016-08-04T10:42:12.778Z'
 author: []
 title: Godstransport
 sourcePath: _posts/2016-03-06-godstransport.md
-published: true
 authors: []
 publisher:
-  name: ''
-  domain: ''
+  name: null
+  domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: godstransport/index.html
 _context: 'http://schema.org'
 _type: Article
