@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Kontakt os og få et tilbud
-datePublished: '2016-03-06T14:23:33.514Z'
-dateModified: '2016-03-06T14:11:19.769Z'
+description: >-
+  Stenager Transport er specialiseret i kompostspredning. Kontakt os for at få
+  et tilbud til spredning på dine marker. Ring eller skriv
+datePublished: '2016-08-04T10:42:55.504Z'
+dateModified: '2016-08-04T10:42:55.030Z'
 author: []
 title: Kompostspredning
 sourcePath: _posts/2016-03-06-kompost-spredning.md
-published: true
 authors: []
 publisher:
-  name: ''
-  domain: ''
+  name: null
+  domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: kompostspredning/index.html
 _context: 'http://schema.org'
 _type: Article
