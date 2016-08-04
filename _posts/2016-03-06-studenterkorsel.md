@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "Vi yder studenterkørsel på hele Sjælland.\_"
-datePublished: '2016-03-22T20:48:12.399Z'
-dateModified: '2016-03-22T20:47:57.282Z'
+description: ''
+datePublished: '2016-08-04T10:42:46.511Z'
+dateModified: '2016-08-04T10:42:46.059Z'
 author: []
 title: Studenterkørsel
 sourcePath: _posts/2016-03-06-studenterkorsel.md
-published: true
 authors: []
 publisher:
-  name: ''
-  domain: ''
+  name: null
+  domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: studenterkorsel/index.html
 _context: 'http://schema.org'
 _type: Article
