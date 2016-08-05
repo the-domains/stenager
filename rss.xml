@@ -4,7 +4,7 @@
         <description><![CDATA[Stenager Transport]]></description>
         <link>http://www.stenager-transport.dk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 13:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 13:31:08 GMT</lastBuildDate>
         <atom:link href="http://www.stenager-transport.dk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stenager Transport]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.stenager-transport.dk/stenager-transport/index.html</link>
             <guid isPermaLink="false">8274e858-02d7-4731-b2a1-d4c8e9c61487</guid>
             <pubDate>Fri, 05 Aug 2016 13:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Godstransport]]></title>
+            <description><![CDATA[<article><h1>Godstransport</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/884c89cb2d8b9a7bbe9dcf7ab7e5087aa1e77df5.png"></article>]]></description>
+            <link>http://www.stenager-transport.dk/godstransport/index.html</link>
+            <guid isPermaLink="false">cae1b2bb-3e08-4e9a-aec6-b0fb3b32081f</guid>
+            <pubDate>Fri, 05 Aug 2016 13:31:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kompostspredning]]></title>
@@ -26,13 +33,6 @@
             <link>http://www.stenager-transport.dk/studenterkorsel/index.html</link>
             <guid isPermaLink="false">29dd2635-1752-4e8b-b4ca-faf3a193691a</guid>
             <pubDate>Thu, 04 Aug 2016 10:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Godstransport]]></title>
-            <description><![CDATA[<article><h1>Godstransport</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/884c89cb2d8b9a7bbe9dcf7ab7e5087aa1e77df5.png"></article>]]></description>
-            <link>http://www.stenager-transport.dk/godstransport/index.html</link>
-            <guid isPermaLink="false">cae1b2bb-3e08-4e9a-aec6-b0fb3b32081f</guid>
-            <pubDate>Thu, 04 Aug 2016 10:42:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
