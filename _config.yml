@@ -1,29 +1,7 @@
-typography_spectrum: 0.47249
-color:
-  brandColors:
-    - '#6d6e67'
-    - '#90877e'
-    - '#c5c5c5'
-    - '#4d262b'
-    - '#fcfefe'
-  brandStrength: 0.0625
-  lightness: 0.6875
-  saturation: 0.625
-  rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.69616
-analytics:
-  google: UA-74768218-1
-  facebook: null
-  twitter: null
 name: Stenager Transport
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+layout_spectrum: 0.50471
+typography_spectrum: 0.47249
 navigation:
   - name: Om os
     id: 8274e858-02d7-4731-b2a1-d4c8e9c61487
@@ -37,6 +15,28 @@ navigation:
   - name: Kompostspredning
     id: 0f34355e-9616-49e5-96e3-50ac2ef146f6
     type: content
-favicon: null
 title: Stenager Transport
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-74768218-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#6d6e67'
+    - '#90877e'
+    - '#c5c5c5'
+    - '#4d262b'
+    - '#fcfefe'
+  brandStrength: 0.0625
+  lightness: 0.6875
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
