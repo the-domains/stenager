@@ -5,18 +5,18 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-04T10:42:13.516Z'
-dateModified: '2016-08-04T10:42:12.778Z'
+datePublished: '2016-08-05T13:31:06.943Z'
+dateModified: '2016-08-05T13:30:39.754Z'
 author: []
 title: Godstransport
 sourcePath: _posts/2016-03-06-godstransport.md
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-via: {}
 starred: false
 url: godstransport/index.html
 _context: 'http://schema.org'
