@@ -5,20 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Du kan kontakte os her:'
-datePublished: '2016-08-04T10:42:34.729Z'
-dateModified: '2016-08-04T10:42:33.978Z'
+datePublished: '2016-08-05T13:31:02.432Z'
+dateModified: '2016-08-05T13:26:12.007Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-06-stenager-transport.md
+via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
-via: {}
 starred: true
 url: stenager-transport/index.html
 _type: Article
